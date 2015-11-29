@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppStateBackup</string>
+
+    <string name="value_text">DemoApp.value = %1$d\nSingleInstance.value = %2$d\nMainActivity.value = %3$d\nMainActivity.backupValue = %4$d</string>
+</resources>
